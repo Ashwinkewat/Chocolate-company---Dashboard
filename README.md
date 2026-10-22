@@ -65,7 +65,3 @@ This dashboard demonstrates how Power BI can transform sales data into an intera
 ## 👤 Author
 
 Created as part of my data analytics portfolio to demonstrate skills in Power BI reporting, business metrics, and data visualization.
-
----
-
-*Note: Dashboard findings and numerical results can be added after validating the report data. The dashboard's data source and preparation steps should also be documented once confirmed.*
